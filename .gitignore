@@ -1,0 +1,5 @@
+*.d
+*.o
+*.a
+bin/chessviz
+**.vscode
