@@ -1,4 +1,4 @@
-#include </home/alex/trpo/test_dir/chesviz.h>
+#include <libchessviz/chesviz.h>
 
 // void one_side(size_t n, PNT **board, int count)
 // {
@@ -26,7 +26,7 @@ int main()
     desk_show(SIZ, board);
     INPUT *in = input_create();
     // show_input(in);
-
+    
     game(in, SIZ, board);
     saving(SIZ, board);
 

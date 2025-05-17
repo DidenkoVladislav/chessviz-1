@@ -1,5 +1,5 @@
 /*Функции для проверок корректности ходов и запуска программы.*/
-#include </home/alex/trpo/test_dir/chesviz.h>
+#include "chesviz.h"
 
 void control_of_memory(void *ptr)
 {

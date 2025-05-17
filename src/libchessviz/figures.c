@@ -1,5 +1,5 @@
 // /*Файл для разбиения проверок ходов фигур*/
-#include </home/alex/trpo/test_dir/chesviz.h>
+#include "chesviz.h"
 
 /*Пешка меняется на другую фигуру*/
 void pawn_move(PNT *pawn_pos, char figure)

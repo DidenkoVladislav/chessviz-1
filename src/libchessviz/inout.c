@@ -1,4 +1,4 @@
-#include </home/alex/trpo/test_dir/chesviz.h>
+#include "chesviz.h"
 
 STR *str_construct()
 {
